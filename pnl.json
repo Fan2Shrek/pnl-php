@@ -1,5 +1,5 @@
 {
     "name": "Pnl php",
-    "main-class": "Pnl",
+    "main-class": "main",
     "installer": "PnlInstaller"
 }

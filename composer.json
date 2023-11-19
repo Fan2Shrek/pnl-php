@@ -1,0 +1,18 @@
+{
+    "name": "pnl/pnl-php",
+    "description": "Php basic commands for pnl",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pnl\\PnlPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fan2Shrek",
+            "email": "pierre27.ambroise@gmail.com"
+        }
+    ],
+    "require": {}
+}
