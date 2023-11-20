@@ -9,9 +9,8 @@ class PnlInstaller extends AbsractInstaller
 {
     public function install(PnlConfig $pnlConfig): PnlConfig
     {
-        echo 'Installing Pnl...';
-
-        dd($pnlConfig);
+        $this->style->writeWithStyle("Thanks for installing ", 'green');
+        $this->style->writeWithStyle("Pnl/PHP", 'basic');
 
         return $pnlConfig;
     }
