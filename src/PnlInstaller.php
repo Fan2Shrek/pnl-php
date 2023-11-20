@@ -2,10 +2,10 @@
 
 namespace Pnl\PnlPhp;
 
-use Pnl\Installer\COR\InstallerInterface;
+use Pnl\Installer\COR\AbsractInstaller;
 use Pnl\Installer\PnlConfig;
 
-class PnlInstaller implements InstallerInterface
+class PnlInstaller extends AbsractInstaller
 {
     public function install(PnlConfig $pnlConfig): PnlConfig
     {

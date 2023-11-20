@@ -12,15 +12,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Fan2Shrek/pnl-core.git",
-                "reference": "f7b21d31acbe0a83d1f72765362779dbf231a5e5"
+                "reference": "419abfe45041bda0053d8527d5e7cf6c5e933cc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Fan2Shrek/pnl-core/zipball/f7b21d31acbe0a83d1f72765362779dbf231a5e5",
-                "reference": "f7b21d31acbe0a83d1f72765362779dbf231a5e5",
+                "url": "https://api.github.com/repos/Fan2Shrek/pnl-core/zipball/419abfe45041bda0053d8527d5e7cf6c5e933cc1",
+                "reference": "419abfe45041bda0053d8527d5e7cf6c5e933cc1",
                 "shasum": ""
             },
             "require": {
+                "pnl/pnl-php": "dev-main",
                 "symfony/config": "^6.3",
                 "symfony/dependency-injection": "^6.3",
                 "symfony/intl": "^6.3",
@@ -48,7 +49,7 @@
                 "issues": "https://github.com/Fan2Shrek/pnl-core/issues",
                 "source": "https://github.com/Fan2Shrek/pnl-core/tree/develop"
             },
-            "time": "2023-11-19T22:36:55+00:00"
+            "time": "2023-11-20T21:27:02+00:00"
         },
         {
             "name": "psr/container",
