@@ -1,5 +1,7 @@
 {
     "name": "Pnl php",
+    "composer-name": "pnl/pnl-php",
     "main-class": "main",
-    "installer": "PnlInstaller"
+    "installer": "PnlInstaller",
+    "version": "dev-main"
 }
