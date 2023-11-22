@@ -1,0 +1,3 @@
+services:
+    Pnl\PnlPhp\App\Command\:
+        resource: '../src/Commands'
