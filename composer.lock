@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Fan2Shrek/pnl-core.git",
-                "reference": "419abfe45041bda0053d8527d5e7cf6c5e933cc1"
+                "reference": "ca9e6553545d74e38926cc5af21302c7f33626d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Fan2Shrek/pnl-core/zipball/419abfe45041bda0053d8527d5e7cf6c5e933cc1",
-                "reference": "419abfe45041bda0053d8527d5e7cf6c5e933cc1",
+                "url": "https://api.github.com/repos/Fan2Shrek/pnl-core/zipball/ca9e6553545d74e38926cc5af21302c7f33626d9",
+                "reference": "ca9e6553545d74e38926cc5af21302c7f33626d9",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 "issues": "https://github.com/Fan2Shrek/pnl-core/issues",
                 "source": "https://github.com/Fan2Shrek/pnl-core/tree/develop"
             },
-            "time": "2023-11-20T21:27:02+00:00"
+            "time": "2023-11-21T21:50:40+00:00"
         },
         {
             "name": "psr/container",

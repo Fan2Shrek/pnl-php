@@ -2,6 +2,9 @@
 
 namespace Pnl\PnlPhp;
 
-class Pnl
+use Pnl\Extensions\AbstractExtension;
+
+class PNL extends AbstractExtension
 {
+    protected static string $name = "php";
 }
