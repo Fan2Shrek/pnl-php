@@ -1,3 +1,8 @@
 services:
-    Pnl\PnlPhp\App\Command\:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: true
+
+    Pnl\PnlPhp\Commands\:
         resource: '../src/Commands'
