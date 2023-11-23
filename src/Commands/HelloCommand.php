@@ -8,7 +8,7 @@ use Pnl\Console\Output\OutputInterface;
 
 class HelloCommand extends AbstractCommand
 {
-    private string $name = "hello";
+    protected const NAME = "hello";
 
     public function getDescription(): string
     {
