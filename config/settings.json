@@ -1,0 +1,7 @@
+{
+    "test": "test",
+    "test2": "test 2",
+    "test-array": {
+        "test-again": "test-again"
+    }
+}
